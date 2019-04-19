@@ -14,6 +14,10 @@
 
 ![asynchrosity](./asynchrosity.png)
 
++++
+
+![async_req](./async_req.png)
+
 ---
 
 ### Observable is a notifier to all observers watching a particular value
